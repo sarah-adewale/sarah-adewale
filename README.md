@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/adewalesarah" target="blank"><img src="https://img.shields.io/twitter/follow/adewalesarah?logo=twitter&style=for-the-badge" alt="adewalesarah" /></a> </p>
 
-- 🔭 I’m currently working on **Venddir**
+- 🔭 I’m currently working on **VENDIRR**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **JAVASCRIPT**
 
 - 👨‍💻 All of my projects are available at [https://sarah-adewale.netlify.app/](https://sarah-adewale.netlify.app/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Buidling An Online Business**
 
 - 📫 How to reach me **saraphynaadewale@gmail.com**
 
