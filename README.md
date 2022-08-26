@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **VENDIRR**
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [https://sarah-adewale.netlify.app/](https://sarah-adewale.netlify.app/)
 
