@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/adewalesarah" target="blank"><img src="https://img.shields.io/twitter/follow/adewalesarah?logo=twitter&style=for-the-badge" alt="adewalesarah" /></a> </p>
 
-- 🔭 I’m currently working on **VENDIRR**
+- 🔭 I’m currently working on **VENDDIR**
 
 - 🌱 I’m currently learning **REACT**
 
