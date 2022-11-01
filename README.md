@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Buidling An Online Business**
 
-- 📫 How to reach me **saraphynaadewale@gmail.com**
+- 📫 How to reach me **sarahtemitopeadewale@gmail.com**
 
-- ⚡ Fun fact **I have been doing 3 codwars challenge everyday for the past 120days and counting. check it https://github.com/sarah-adewale/code-wars-challenges**
+- ⚡ Fun fact **For 120days and counting i have completed 3 codewars chalenges everyday. repo => https://github.com/sarah-adewale/code-wars-challenges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
