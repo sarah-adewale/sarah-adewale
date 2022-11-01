@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saraphynaadewale@gmail.com**
 
-- ⚡ Fun fact **I laugh a lot**
+- ⚡ Fun fact **I have been doing 3 codwars challenge everyday for the past 120days and counting. check it https://github.com/sarah-adewale/code-wars-challenges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
