@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/adewalesarah" target="blank"><img src="https://img.shields.io/twitter/follow/adewalesarah?logo=twitter&style=for-the-badge" alt="adewalesarah" /></a> </p>
 
-- 🔭 I’m currently working on **VENDDIR** => [https://venddir.netlify.app/](https://venddir.cyclic.app/)
+- 🔭 I’m currently working on **VENDDIR** => [https://venddir.cyclic.app/](https://venddir.cyclic.app/)
 
 - 🌱 I’m currently learning **SQL**
 
