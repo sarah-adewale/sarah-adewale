@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **VENDDIR** => [https://venddir.cyclic.app/](https://venddir.cyclic.app/)
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SQL** 
 
 - 👨‍💻 All of my projects are available at [https://sarah-adewale.netlify.app/](https://sarah-adewale.netlify.app/)
 
