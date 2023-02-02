@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **sarahtemitopeadewale@gmail.com**
 
-- ⚡ Fun fact:  **For 120days and counting i have completed 3 codewars challenges everyday. repo => https://github.com/sarah-adewale/code-wars-challenges**
+- ⚡ Fun fact:  **For 270days and counting i have completed 3 codewars challenges everyday. repo => https://github.com/sarah-adewale/code-wars-challenges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
