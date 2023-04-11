@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Nextjs** 
 
+- ✍️ I write technical articles here => https://dev.to/sarahadewale 
+
 - 👨‍💻 All of my projects are available at [https://sarah-adewale.netlify.app/](https://sarah-adewale.netlify.app/)
 
 - 💬 Ask me about **Buidling An Online Business**
