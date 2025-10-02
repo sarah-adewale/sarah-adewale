@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NOTCH AI** => [Notch AI](https://venddir.cyclic.app/)
 
-- 🌱 I’m currently learning **C##** 
+- 🌱 I’m currently learning **C, C++** 
 
 - ✍️ I write technical articles here => https://dev.to/sarahadewale 
 
